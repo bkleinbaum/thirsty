@@ -1,0 +1,17 @@
+body{
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(http://i.imgur.com/lLIPou2.jpg)
+	opacity: .5; 
+
+}
+
+table {
+	margin: 0 auto;
+	height: 75%;
+}
+
+h1 {
+	text-align: left;
+	color: black;
+}
