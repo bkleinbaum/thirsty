@@ -6,7 +6,7 @@ krameraudio.currentTime=0; });
 var georgeaudio = $("#georgesound")[0];
 $("#george").mouseenter(function() {
   georgeaudio.play();});
-$("#george").mouseleave(function() {georgeaudio.pause()
+$("#george").mouseleave(function() { georgeaudio.pause()
 georgeaudio.currentTime=0; });
 
 var jerryaudio = $("#jerrysound")[0];
